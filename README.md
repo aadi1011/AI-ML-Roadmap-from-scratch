@@ -8,11 +8,23 @@ These are a collection of the best free resources from YouTube, as well as other
 
 ## Module 1 - Building Your Foundation
 
+The domain of AI/ML is a vast deep ocean and it's time for you to build a boat and rafters for a smooth sail. These foundational courses in Computer Science and Python Programming will get you going strong!
+
+| S.No          | Type   | Course Name   |
+| ------------- | ------------- | ------------- |
+| 1             |`Course`      | [MITx: Introduction to Computer Science and Programming Using Python](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python?index=product&objectID=course-956319ec-8665-4039-8bc6-32c9a9aea5e9&webview=false&campaign=Introduction+to+Computer+Science+and+Programming+Using+Python&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fcomputer-science)         |
+| 2             |`Course`      | [HarvardX: CS50's Introduction to Programming with Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python?index=product&objectID=course-2cc794d0-316d-42f7-bbfd-25c34e4cd5df&webview=false&campaign=CS50%27s+Introduction+to+Programming+with+Python&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fcomputer-science)         |
+| 3             |`Website`          | [Introduction to Python - W3 Schools](https://www.w3schools.com/python/python_intro.asp)      |
+| 4             | `YouTube`         | [Learn Python in 4 Hours](https://www.youtube.com/watch?v=rfscVS0vtbw)      |
+
+## Module 2 - Data Science
+
 | S.No          | Course Name   |
 | ------------- | ------------- |
-| 8       | [MITx: Introduction to Computer Science and Programming Using Python](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python?index=product&objectID=course-956319ec-8665-4039-8bc6-32c9a9aea5e9&webview=false&campaign=Introduction+to+Computer+Science+and+Programming+Using+Python&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fcomputer-science)         |
-| 9       | [HarvardX: CS50's Introduction to Programming with Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python?index=product&objectID=course-2cc794d0-316d-42f7-bbfd-25c34e4cd5df&webview=false&campaign=CS50%27s+Introduction+to+Programming+with+Python&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fcomputer-science)         |
+| 8       | [HarvardX: Data Science: Machine Learning](https://www.edx.org/learn/machine-learning/harvard-university-data-science-machine-learning)         |
+| 9       | [Google: Google AI for Anyone](https://www.edx.org/learn/artificial-intelligence/google-google-ai-for-anyone)         |
 | 10         | [Explore Azure with OpenAI](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/)|
+
 
 
 ## Module 2 - Machine Learning
