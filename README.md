@@ -75,6 +75,8 @@ Time to use that data to train a machine on how to learn them. Machine learning 
 | 10         | [Explore Azure with OpenAI](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/)|
 
 
-## Special Thanks
+## Contribute
 
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Many hands make light work! I would be more than happy if you are willing to contribute to this repository and help others learn better.
+
+Make sure to read the [`CONTRIBUTING`](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch/blob/main/CONTRIBUTING.md) file to understand more on how you can help!
