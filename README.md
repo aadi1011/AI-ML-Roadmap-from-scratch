@@ -27,18 +27,21 @@ Data is the new oil! Before jumping into making advanced AI, let's learn about t
 | 1             | `YouTube`      | [Data Science Overview](https://www.youtube.com/watch?v=ua-CiDNNj30)           |
 | 2             | `Website`      | [Data Science Introduction](https://www.w3schools.com/datascience/ds_introduction.asp)           |
 | 3             | `YouTube`     | [Python for Data Science](https://www.youtube.com/watch?v=LHBE6Q9XlzI)         |
-| 3             | `⭐Course`     | [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)         |
+| 4             | `Course`      | [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) |
+| 4             | `⭐Course`     | [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)         |
 
 
 ## Module 3 - Machine Learning
 
 Time to use that data to train a machine on how to learn them. Machine learning is the science of computer algorithms that help machines learn and improve from data analysis without explicit programming. _THAT'S SO COOL!_ 
 
-| S.No          | Course Name   |
-| ------------- | ------------- |
-| 8       | [HarvardX: Data Science: Machine Learning](https://www.edx.org/learn/machine-learning/harvard-university-data-science-machine-learning)         |
-| 9       | [Google: Google AI for Anyone](https://www.edx.org/learn/artificial-intelligence/google-google-ai-for-anyone)         |
-| 10         | [Explore Azure with OpenAI](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/)|
+| S.No          | Type          | Course Name   | Level |
+| ------------- | ------------- | ------------- | ------------- | 
+| 1             | `Website`     | [Introductory Article on Machine Learning - Spiceworks](https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-ml/) |
+| 2             | `Course`      | [HarvardX: Data Science: Machine Learning](https://www.edx.org/learn/machine-learning/harvard-university-data-science-machine-learning)         |
+| 3             | `Website`     | [Machine Learning Tutorial - GFG](https://www.geeksforgeeks.org/machine-learning/)
+| 3             | `Course`      | [Explore Azure with OpenAI](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/)|
+| 5             | `Course`      | [Machine Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction) | <code >Advanced</code>
 
 ## Module 3 - Generative AI
 
@@ -46,8 +49,7 @@ Time to use that data to train a machine on how to learn them. Machine learning 
 | ------------- | ------------- |
 | 8       | [Microsoft Fundamentals of Generative AI](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/)         |
 | 9       | [Responsible Generative AI](https://learn.microsoft.com/en-us/training/modules/responsible-generative-ai/)         |
-| 10         | [Python For Hackers](https://www.youtube.com/playlist?list=PLBf0hzazHTGM_dncTqO9l-0zUQYP0nNPU)|
-| 11         | [Shell Scripting](https://www.youtube.com/playlist?list=PLBf0hzazHTGMJzHon4YXGscxUvsFpxrZT)
+
 
 ## Module 4 - Natural Language Processing
 
@@ -73,6 +75,8 @@ Time to use that data to train a machine on how to learn them. Machine learning 
 | 8       | [Microsoft AI Fundamentals](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/)         |
 | 9       | [Microsoft Generative AI Fundamentals](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/)         |
 | 10         | [Explore Azure with OpenAI](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/)|
+| 2             | `Course`      | [Google: Google AI for Anyone](https://www.edx.org/learn/artificial-intelligence/google-google-ai-for-anyone)         |
+
 
 
 ## Contribute
