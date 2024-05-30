@@ -43,7 +43,18 @@ Time to use that data to train a machine on how to learn them. Machine learning 
 | 3             | `Course`      | [Explore Azure with OpenAI](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/)|
 | 5             | `Course`      | [Machine Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction) | <code >Advanced</code>
 
-## Module 3 - Generative AI
+## Module 3 - Computer Vision
+
+LOREM IPSUM DOLOR 
+
+| S.No          | Type          | Course Name   | Level |
+| ------------- | ------------- | ------------- | ------------- | 
+| 1             | `Website`     | [Introductory Article on Machine Learning - Spiceworks](https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-ml/) |
+| 2             | `Course`      | [HarvardX: Data Science: Machine Learning](https://www.edx.org/learn/machine-learning/harvard-university-data-science-machine-learning)         |
+
+
+
+## Module 4 - Generative AI
 
 | S.No          | Course Name   |
 | ------------- | ------------- |
@@ -51,7 +62,7 @@ Time to use that data to train a machine on how to learn them. Machine learning 
 | 9       | [Responsible Generative AI](https://learn.microsoft.com/en-us/training/modules/responsible-generative-ai/)         |
 
 
-## Module 4 - Natural Language Processing
+## Module 5 - Natural Language Processing
 
 [Try to Solve Wihtout Seeing Solutions]
 | S.No          | Course Name   |
@@ -60,7 +71,7 @@ Time to use that data to train a machine on how to learn them. Machine learning 
 | 9       | [Microsoft Generative AI Fundamentals](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/)         |
 | 10         | [Explore Azure with OpenAI](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/)|
 
-## Module 5 - Reinforcement Learning
+## Module 6 - Reinforcement Learning
 
 | S.No          | Course Name   |
 | ------------- | ------------- |
