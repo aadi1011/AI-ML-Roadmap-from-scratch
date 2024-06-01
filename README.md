@@ -23,12 +23,12 @@ Data is the new oil! Before jumping into making advanced AI, let's learn about t
 
 | S.No          | Type          | Course Name   | Level |
 | ------------- | ------------- | ------------- | ------------- | 
-| _Bonus_       | `YouTube`     | [Quick 5 Minute Intro to Data Science](https://www.youtube.com/watch?v=X3paOmcrTjQ)         |
-| 1             | `YouTube`      | [Data Science Overview](https://www.youtube.com/watch?v=ua-CiDNNj30)           |
-| 2             | `Website`      | [Data Science Introduction](https://www.w3schools.com/datascience/ds_introduction.asp)           |
-| 3             | `YouTube`     | [Python for Data Science](https://www.youtube.com/watch?v=LHBE6Q9XlzI)         |
-| 4             | `Course`      | [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) |
-| 4             | `⭐Course`     | [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)         |
+| _Bonus_       | `YouTube`     | [Quick 5 Minute Intro to Data Science](https://www.youtube.com/watch?v=X3paOmcrTjQ)         | `Beginner` |
+| 1             | `YouTube`      | [Data Science Overview](https://www.youtube.com/watch?v=ua-CiDNNj30)           | `Beginner` |
+| 2             | `Website`      | [Data Science Introduction](https://www.w3schools.com/datascience/ds_introduction.asp)           | `Beginner` |
+| 3             | `YouTube`     | [Python for Data Science](https://www.youtube.com/watch?v=LHBE6Q9XlzI)         |  `Intermediate` |
+| 4             | `Course`      | [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) |  `Advanced` |
+| 4             | `⭐Course`     | [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)         | `Advanced` |
 
 
 ## Module 3 - Machine Learning
