@@ -39,7 +39,7 @@ Time to use that data to train a machine on how to learn them. Machine learning 
 | ------------- | ------------- | ------------- | ------------- | 
 | 1             | `Website`     | [Introductory Article on Machine Learning - Spiceworks](https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-ml/) | `Beginner` |
 | 2             | `⭐Course`      | [HarvardX: Data Science: Machine Learning](https://www.edx.org/learn/machine-learning/harvard-university-data-science-machine-learning)         | `Intermediate` |
-| 3             | `Website`     | [Machine Learning Tutorial - GFG](https://www.geeksforgeeks.org/machine-learning/) `Beginner` |
+| 3             | `Website`     | [Machine Learning Tutorial - GFG](https://www.geeksforgeeks.org/machine-learning/) | `Beginner` |
 | 3             | `Course`      | [Explore Azure with OpenAI](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/)| `Intermediate` |
 | 5             | `Course`      | [Machine Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction) | `Advanced` |
 
