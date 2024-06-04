@@ -45,7 +45,7 @@ Time to use that data to train a machine on how to learn them. Machine learning 
 
 ## Module 3 - Computer Vision
 
-LOREM IPSUM DOLOR 
+Giving the power of vision to our intelligent computers! Computer Vision trains computers to interpret and understand the visual world, just the way we see it (_or in an more advanced way ;)_)
 
 | S.No          | Type          | Course Name   | Level |
 | ------------- | ------------- | ------------- | ------------- | 
