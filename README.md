@@ -6,6 +6,11 @@ You can follow these modules simultaneously as well as in order given below. The
 
 These are a collection of the best free resources from YouTube, as well as other popular blogs and websites.
 
+## Module 0 - Before You Start
+
+LOREM IPSUM DOLOR
+
+
 ## Module 1 - Building Your Foundation
 
 The domain of AI/ML is a vast deep ocean and it's time for you to build a boat and rafters for a smooth sail. These foundational courses in Computer Science and Python Programming will get you going strong!
