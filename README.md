@@ -4,7 +4,7 @@ Become skilled in Artificial Intelligence, Machine Learning, Generative AI, Deep
 
 You can follow these modules simultaneously as well as in order given below. The modules are ranked in increasing order of difficulty. Content with a `⭐` are developer recommended.
 
-These are a collection of the best free resources from YouTube, as well as other popular blogs and websites.
+These are a collection of the best free resources from YouTube and online courses, as well as other popular blogs and websites.
 
 ## Module 0 - Before You Start
 
