@@ -19,7 +19,7 @@ Mathematics is a foundation for everything in the world for Artificial Intellige
 | 2             |`Software`      | [Python 3.12 Download](https://www.python.org/downloads/)  |
 | 3             |`Software`      | [Visual Studio Code Download](https://code.visualstudio.com/download)   |
 | 4             |`Py Package`    | [Install Pip Package Installer on Python](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/) |
-| 4             |`Py Package`      | Common Python Libraries used for AI/ML  |
+| 4             |`Py Package`      | [Common Python Libraries used for AI/ML](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch/tree/main)  |
 
 
 
