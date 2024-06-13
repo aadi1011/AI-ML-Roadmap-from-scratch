@@ -124,11 +124,12 @@ Giving the power of vision to our intelligent computers! Computer Vision trains 
 
 ## Module 7 - Reinforcement Learning
 
-| S.No          | Course Name   |
-| ------------- | ------------- |
-| 1       | [Reinforcement Learning By The Book](https://www.youtube.com/playlist?list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr)         |
-| 2       | [Microsoft Generative AI Fundamentals](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/)         |
-| 3         | [Explore Azure with OpenAI](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/)|
+| S.No          | Type          | Course Name   |
+| ------------- | ------------- | ------------- |
+| 1             | `Playlist`    | [Reinforcement Learning By The Book](https://www.youtube.com/playlist?list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr)         |
+| 2             | `YouTube`     | [RL Basics from Scratch](https://youtu.be/vXtfdGphr3c?si=fnC5onHgc2Kmaeww) |
+|3              | `Website`     | [Reinforcement Learning Tutorial - JavaTPoint](https://www.javatpoint.com/reinforcement-learning) |
+
 
 
 
