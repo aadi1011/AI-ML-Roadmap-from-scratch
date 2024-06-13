@@ -1,10 +1,10 @@
-# Free AI and Machine Learning Roadmap with Resources
+<h1 align=center> Free AI and Machine Learning Roadmap with Resources </h1>
 
-Become skilled in Artificial Intelligence, Machine Learning, Generative AI, Deep Learning, Data Science, Natural Language Processing, Reinforcement Learning and more with this complete 0 to 100 repository.
+🧠 Become skilled in Artificial Intelligence, Machine Learning, Generative AI, Deep Learning, Data Science, Natural Language Processing, Reinforcement Learning and more with this complete 0 to 100 repository.
 
-You can follow these modules simultaneously as well as in order given below. The modules are ranked in increasing order of difficulty. Content with a `⭐` are developer recommended.
+💡 You can follow these modules simultaneously as well as in order given below. The modules are ranked in increasing order of difficulty. Content with a `⭐` are developer recommended.
 
-These are a collection of the best free resources from YouTube and online courses, as well as other popular blogs and websites.
+📚 These are a collection of the best free resources from YouTube and online courses, as well as other popular blogs and websites.
 
 
 
@@ -19,7 +19,7 @@ Mathematics is a foundation for everything in the world for Artificial Intellige
 | 2             |`Software`      | [Python 3.12 Download](https://www.python.org/downloads/)  |
 | 3             |`Software`      | [Visual Studio Code Download](https://code.visualstudio.com/download)   |
 | 4             |`Py Package`    | [Install Pip Package Installer on Python](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/) |
-| 4             |`Py Package`      | [Common Python Libraries used for AI/ML](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch/tree/main)  |
+| 4             |`Py Package`      | [Common Python Libraries used for AI/ML](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch/blob/main/Packages.md)  |
 
 
 
@@ -87,33 +87,36 @@ Giving the power of vision to our intelligent computers! Computer Vision trains 
 
 
 
-## Module 4 - Generative AI
-
-| S.No          | Type          | Course Name   |
-| ------------- | ------------- | ------------- |
-| 8             | `Course`      | [Microsoft Fundamentals of Generative AI](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/)         |
-| 9             | `Course`      | [Microsoft Responsible Generative AI](https://learn.microsoft.com/en-us/training/modules/responsible-generative-ai/)         |
-
-
-
-## Module 5 - Deep Learning Neural Network 
+## Module 4 - Deep Learning Neural Network 
 
 | S.No          | Type          | Course Name   |
 | ------------- | ------------- | ------------- |
 | 1             | `Course`      | [DeepLearning.AI Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)         |
-| 9             | `Course`      | [Microsoft Responsible Generative AI](https://learn.microsoft.com/en-us/training/modules/responsible-generative-ai/)         |
+| 2             | `Course`      | [Neural Networks and Deep Learning](https://www.classcentral.com/course/neural-networks-deep-learning-9058)               |
+| 3             | `Course`      | [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)               |
+| 4             | `⭐YouTube`     | [Deep Learning Crash Course for Beginners](https://www.youtube.com/watch?v=VyWAvY2CF9c)    |
+
+
+
+
+## Module 5 - Generative AI
+
+| S.No          | Type          | Course Name   |
+| ------------- | ------------- | ------------- |
+| 1             | `Course`      | [Microsoft Fundamentals of Generative AI](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/)         |
+| 2             | `Course`      | [Microsoft Responsible Generative AI](https://learn.microsoft.com/en-us/training/modules/responsible-generative-ai/)         |
+| 3             | `⭐YouTube`     | [Generative AI in a Nutshell](https://youtu.be/2IK3DFHRFfw?si=V9I81wsPVAhkuinS) |
+| 4             | `Course`      | [Generative Adversarial Networks (GANs) Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans) |
 
 
 
 
 ## Module 6 - Natural Language Processing
 
-| S.No          | Course Name   |
-| ------------- | ------------- |
-| 8       | [Microsoft AI Fundamentals](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/)         |
-| 9       | [Microsoft Generative AI Fundamentals](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/)         |
-| 10         | [Explore Azure with OpenAI](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/)|
-
+| S.No          | Type          | Course Name   |
+| ------------- | ------------- | ------------- |
+| 1             | `⭐Playlist`      | [Tensorflow's NLP Zero to Hero](https://youtube.com/playlist?list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S&si=CTpntcabz40_MDLR)         |
+| 2             | `YouTube`     | [Natural Language Processing Pipeline](https://www.youtube.com/watch?v=6I-Alfkr5K4) |
 
 
 
@@ -123,19 +126,17 @@ Giving the power of vision to our intelligent computers! Computer Vision trains 
 
 | S.No          | Course Name   |
 | ------------- | ------------- |
-| 8       | [Microsoft AI Fundamentals](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/)         |
-| 9       | [Microsoft Generative AI Fundamentals](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/)         |
-| 10         | [Explore Azure with OpenAI](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/)|
+| 1       | [Reinforcement Learning By The Book](https://www.youtube.com/playlist?list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr)         |
+| 2       | [Microsoft Generative AI Fundamentals](https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/)         |
+| 3         | [Explore Azure with OpenAI](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/)|
 
 
 
 ## `Bonus` Module - Advanced Learning Pathway Courses
 
-| S.No          | Course Name   |
-| ------------- | ------------- |
-| 1             | [Stanford Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) |
-| 2             | [Google: Google AI for Anyone](https://www.edx.org/learn/artificial-intelligence/google-google-ai-for-anyone)         |
-| 3             | [IBM AI Foundations for Business Specialization](https://www.coursera.org/specializations/ibm-ai-foundations-for-business)         |
+| S.No          | Type          | Course Name   |
+| ------------- | ------------- | ------------- |
+| 1             | `Playlist`    | [Stanford Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) |
 
 
 
