@@ -68,7 +68,7 @@ Time to use that data to train a machine on how to learn them. Machine learning 
 | 4             | `Course`      | [Explore Azure with OpenAI](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/)|
 | _5*_             | `Course`      | [Machine Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction) |
 
-_*The ML Specialization by Andrew NG is a highly specialized and industry level course by one of the most promient AI scientist - Andrew NG. It is an expert level course and is highly recommened to do one you get a good grasp of the foundational knowledge._
+_*❗ The ML Specialization by Andrew NG is a highly specialized and industry level course by one of the most promient AI scientist - Andrew NG. It is an expert level course and is highly recommened to do one you get a good grasp of the foundational knowledge._
 
 
 
@@ -89,6 +89,8 @@ Giving the power of vision to our intelligent computers! Computer Vision trains 
 
 ## Module 4 - Deep Learning Neural Network 
 
+Time to harness the power of our human brain to develop something that resembles the powers of a human brain. Neural Networks help you understand how information is processed from raw data like the human brain to mimic desired outputs.
+
 | S.No          | Type          | Course Name   |
 | ------------- | ------------- | ------------- |
 | 1             | `Course`      | [DeepLearning.AI Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)         |
@@ -100,6 +102,8 @@ Giving the power of vision to our intelligent computers! Computer Vision trains 
 
 
 ## Module 5 - Generative AI
+
+The big buzz word everywhere! Create text, images, audios, videos, and more all thanks to Generative Adversarial Networks!
 
 | S.No          | Type          | Course Name   |
 | ------------- | ------------- | ------------- |
@@ -113,16 +117,17 @@ Giving the power of vision to our intelligent computers! Computer Vision trains 
 
 ## Module 6 - Natural Language Processing
 
+English, Spanish, French, Hindi, Tamil, Russian, Python, Java, C++ and wait what? Let's learn how can we help computers understand our human language better (the natural language)
+
 | S.No          | Type          | Course Name   |
 | ------------- | ------------- | ------------- |
 | 1             | `⭐Playlist`      | [Tensorflow's NLP Zero to Hero](https://youtube.com/playlist?list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S&si=CTpntcabz40_MDLR)         |
 | 2             | `YouTube`     | [Natural Language Processing Pipeline](https://www.youtube.com/watch?v=6I-Alfkr5K4) |
 
 
-
-
-
 ## Module 7 - Reinforcement Learning
+
+Walk, fall, get up, learn, repeat. Just like how humans learn through experiences on what to do and what not to do, AI is no different! 
 
 | S.No          | Type          | Course Name   |
 | ------------- | ------------- | ------------- |
