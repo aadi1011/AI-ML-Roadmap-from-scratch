@@ -135,9 +135,21 @@ Giving the power of vision to our intelligent computers! Computer Vision trains 
 
 ## `Bonus` Module - Advanced Learning Pathway Courses
 
-| S.No          | Type          | Course Name   |
-| ------------- | ------------- | ------------- |
-| 1             | `Playlist`    | [Stanford Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) |
+| S.No          | Course Name   |
+| ------------- | ------------- |
+| 1             | [Stanford Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) |
+| 2             | [Google: Google AI for Anyone](https://www.edx.org/learn/artificial-intelligence/google-google-ai-for-anyone)         |
+| 3             | [IBM AI Foundations for Business Specialization](https://www.coursera.org/specializations/ibm-ai-foundations-for-business)         |
+
+
+## PROJECTS! 
+* 500 AI,Machine learning,Deep learning, Computer vision, NLP Projects with code - [GitHub Repo](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+* Machine Learning Projects - [GeeksForGeeks](https://www.geeksforgeeks.org/machine-learning-projects/)
+* 15 Python Reinforcement Learning Project Ideas for Beginners - [Project Pro](https://www.projectpro.io/article/reinforcement-learning-projects-ideas-for-beginners-with-code/521)
+
+## Also Visit:
+* [AI WareHouse](https://www.youtube.com/@aiwarehouse)
+
 
 
 
