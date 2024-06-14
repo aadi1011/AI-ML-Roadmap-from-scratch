@@ -1,6 +1,6 @@
 # Contributing to AI-ML-Roadmap-from-scratch 🤝🏽
 
-We're thrilled you're interested in contributing to this repository and helping others embark on their exciting journeys into AI and Machine Learning! This guide outlines how you can effectively contribute valuable resources and enhance the overall learning experience.
+I'm thrilled you're interested in contributing to this repository and helping others embark on their exciting journeys into AI and Machine Learning! This guide outlines how you can effectively contribute valuable resources and enhance the overall learning experience.
 
 ## How to Contribute
 
@@ -15,13 +15,13 @@ There are several ways you can contribute to this project:
     * Resource title.
     * Type of resource (e.g., YouTube, Website, Blog, Course, etc.).
     * Link to the resource (URL).
-    * Target level (e.g., Beginner, Intermediate, Advanced).
+<!--* Target level (e.g., Beginner, Intermediate, Advanced).-->
 
 **2. Improving Existing Resources:**
 
 * Review the current resources and suggest corrections or updates if necessary.
 * Provide feedback on the resource's effectiveness, clarity, or value for specific learning levels.
-* Create a pull request (PR) outlining your proposed changes or additions.
+* Create a pull request (PR) or open an issue outlining your proposed changes or additions.
 
 
 ## Before Submitting a Pull Request
@@ -31,14 +31,15 @@ There are several ways you can contribute to this project:
 * **Test any new links** you add to resources to verify they function correctly.
 * **Write clear and concise commit messages** that describe your changes.
 
-## Creating a Pull Request (Using GitHub Web Interface)
+## Creating a Pull Request
 
-Here's a step-by-step guide on creating a pull request using the GitHub web interface:
+Here's a step-by-step guide on creating a pull request:
 
 1. **Fork this repository:**
 
    - Visit this repository's URL: https://github.com/aadi1011/AI-ML-Roadmap-from-scratch
    - Click the "Fork" button in the top right corner. This creates a copy of the repository in your own GitHub account.
+   - You can directly edit on your GitHub Web and submit a pull request **(skip to step 6)** or edit on your local machine (continue with step 2)
 
 2. **Clone your forked repository to your local machine:**
 
