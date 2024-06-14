@@ -9,6 +9,8 @@ This README provides an overview of the most common libraries used in data scien
 4. [Deep Learning Libraries](#deep-learning-libraries)
 5. [Installation Instructions](#installation-instructions)
 
+💡Incase you have installed pip and want to download all packages in one go, run the command at the [Example Installation](#example-installation) section
+
 ## Data Science Libraries
 
 1. **NumPy**
