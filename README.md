@@ -157,6 +157,14 @@ Walk, fall, get up, learn, repeat. Just like how humans learn through experience
 
 ## Also Visit:
 * [AI WareHouse](https://www.youtube.com/@aiwarehouse)
+* [AI Club - SIT Pune](https://www.instagram.com/aiclub.sit/)
+### AI Newsletters
+* [The Rundown AI](https://www.therundown.ai/)
+* [Mindstream](https://www.mindstream.news/)
+* [AI Breakfast](https://aibreakfast.beehiiv.com/)
+* [TLDR AI](https://tldr.tech/ai)
+* [The Neuron](https://www.theneurondaily.com/)
+
 
 
 
