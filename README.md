@@ -32,9 +32,11 @@ The domain of AI/ML is a vast deep ocean and it's time for you to build a boat a
 | S.No          | Type          | Course Name   |
 | ------------- | ------------- | ------------- |
 | 1             |`Course`      | [MITx: Introduction to Computer Science and Programming Using Python](https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python)         | 
-| 2             |`⭐Course`      | [HarvardX: CS50's Introduction to Programming with Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python)         | 
+| 2             |`Course`      | [HarvardX: CS50's Introduction to Programming with Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python)         | 
 | 3             |`Website`      | [Introduction to Python - W3 Schools](https://www.w3schools.com/python/python_intro.asp)      | 
 | 4             | `YouTube`      | [Learn Python in 4 Hours](https://www.youtube.com/watch?v=rfscVS0vtbw)      | 
+| 5             | `⭐Practice!`  | [Practice Python on HackerRank](https://www.hackerrank.com/domains/python) |
+| 6             | `Certificate`  | [Python Basic Certification](https://www.hackerrank.com/skills-verification/python_basic)
 
 
 
@@ -145,6 +147,7 @@ Walk, fall, get up, learn, repeat. Just like how humans learn through experience
 | 1             | [Stanford Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) |
 | 2             | [Google: Google AI for Anyone](https://www.edx.org/learn/artificial-intelligence/google-google-ai-for-anyone)         |
 | 3             | [IBM AI Foundations for Business Specialization](https://www.coursera.org/specializations/ibm-ai-foundations-for-business)         |
+| 4             | [Solve Artificial Intelligence Problems on HackerRank](https://www.hackerrank.com/domains/ai) |
 
 
 ## PROJECTS! 
@@ -154,7 +157,6 @@ Walk, fall, get up, learn, repeat. Just like how humans learn through experience
 
 ## Also Visit:
 * [AI WareHouse](https://www.youtube.com/@aiwarehouse)
-
 
 
 
