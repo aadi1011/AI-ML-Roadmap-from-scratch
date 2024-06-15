@@ -148,6 +148,7 @@ Walk, fall, get up, learn, repeat. Just like how humans learn through experience
 | 2             | [Google: Google AI for Anyone](https://www.edx.org/learn/artificial-intelligence/google-google-ai-for-anyone)         |
 | 3             | [IBM AI Foundations for Business Specialization](https://www.coursera.org/specializations/ibm-ai-foundations-for-business)         |
 | 4             | [Solve Artificial Intelligence Problems on HackerRank](https://www.hackerrank.com/domains/ai) |
+| 5             | [Solve Functional Programming on HackerRank](https://www.hackerrank.com/domains/algorithms) |
 
 
 ## PROJECTS! 
