@@ -15,17 +15,27 @@ Mathematics is a foundation for everything in the world for Artificial Intellige
 
 | S.No          | Type          | Course Name   |
 | ------------- | ------------- | ------------- |
-| 1             |`Playlist`      | [Math for Machine Learning Playlist](https://youtube.com/playlist?list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg&si=6sZ51wadUZnscjRG)  |
-| 2             |`Software`      | [Python 3.12 Download](https://www.python.org/downloads/)  |
-| 3             |`Software`      | [Visual Studio Code Download](https://code.visualstudio.com/download)   |
-| 4             |`Py Package`    | [Install Pip Package Installer on Python](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/) |
+| 1             |`Software`      | [Python 3.12 Download](https://www.python.org/downloads/)  |
+| 2             |`Software`      | [Visual Studio Code Download](https://code.visualstudio.com/download)   |
+| 3             |`Py Package`    | [Install Pip Package Installer on Python](https://www.geeksforgeeks.org/how-to-install-pip-on-windows/) |
 | 4             |`Py Package`      | [Common Python Libraries used for AI/ML](https://github.com/aadi1011/AI-ML-Roadmap-from-scratch/blob/main/Packages.md)  |
 
 
+## Module 1 - The Math Behind It All
+
+The domain of AI/ML is a vast deep ocean and it's time for you to build a boat and rafters for a smooth sail. These foundational courses in Computer Science and Python Programming will get you going strong!
+
+| S.No          | Type          | Course Name   |
+| ------------- | ------------- | ------------- |
+| 1             |`Playlist`     | [Math for Machine Learning Playlist](https://youtube.com/playlist?list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg&si=6sZ51wadUZnscjRG)  |
+| 2             |`⭐Course`     | [NPTEL Swayam Discrete Mathematics Course](https://onlinecourses.nptel.ac.in/noc22_cs33/preview)         | 
+| 3             |`Course`       | [Discrete Structures via Saylor Academy](https://www.classcentral.com/course/saylor-academy-67-cs202-discrete-structures-99529) |
+| 4             |`Lectures`     | [Linear Algebra Lecture Series from MIT](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/download/) |
+| 5             |`Course`       | [Fundamental Math for Data Science](https://www.codecademy.com/learn/paths/fundamental-math-for-data-science)| 
 
 
 
-## Module 1 - Building Your Foundation
+## Module 2 - Building Your Foundation
 
 The domain of AI/ML is a vast deep ocean and it's time for you to build a boat and rafters for a smooth sail. These foundational courses in Computer Science and Python Programming will get you going strong!
 
@@ -36,12 +46,12 @@ The domain of AI/ML is a vast deep ocean and it's time for you to build a boat a
 | 3             |`Website`      | [Introduction to Python - W3 Schools](https://www.w3schools.com/python/python_intro.asp)      | 
 | 4             | `YouTube`      | [Learn Python in 4 Hours](https://www.youtube.com/watch?v=rfscVS0vtbw)      | 
 | 5             | `⭐Practice!`  | [Practice Python on HackerRank](https://www.hackerrank.com/domains/python) |
-| 6             | `Certificate`  | [Python Basic Certification](https://www.hackerrank.com/skills-verification/python_basic)
+| 6             | `Certificate`  | [Python Basic Certification](https://www.hackerrank.com/skills-verification/python_basic) |
 
 
 
 
-## Module 2 - Data Science
+## Module 3 - Data Science
 
 Data is the new oil! Before jumping into making advanced AI, let's learn about the data that drives it. We'll cover basics of statistics and Data Science using Python in this module.
 
@@ -58,7 +68,7 @@ Data is the new oil! Before jumping into making advanced AI, let's learn about t
 
 
 
-## Module 3 - Machine Learning
+## Module 4 - Machine Learning
 
 Time to use that data to train a machine on how to learn them. Machine learning is the science of computer algorithms that help machines learn and improve from data analysis without explicit programming. _THAT'S SO COOL!_ 
 
@@ -75,7 +85,7 @@ _*❗ The ML Specialization by Andrew NG is a highly specialized and industry le
 
 
 
-## Module 3 - Computer Vision
+## Module 5 - Computer Vision
 
 Giving the power of vision to our intelligent computers! Computer Vision trains computers to interpret and understand the visual world, just the way we see it (_or in an more advanced way ;)_)
 
@@ -89,7 +99,7 @@ Giving the power of vision to our intelligent computers! Computer Vision trains 
 
 
 
-## Module 4 - Deep Learning Neural Network 
+## Module 6 - Deep Learning Neural Network 
 
 Time to harness the power of our human brain to develop something that resembles the powers of a human brain. Neural Networks help you understand how information is processed from raw data like the human brain to mimic desired outputs.
 
@@ -103,7 +113,7 @@ Time to harness the power of our human brain to develop something that resembles
 
 
 
-## Module 5 - Generative AI
+## Module 7 - Generative AI
 
 The big buzz word everywhere! Create text, images, audios, videos, and more all thanks to Generative Adversarial Networks!
 
@@ -117,7 +127,7 @@ The big buzz word everywhere! Create text, images, audios, videos, and more all 
 
 
 
-## Module 6 - Natural Language Processing
+## Module 8 - Natural Language Processing
 
 English, Spanish, French, Hindi, Tamil, Russian, Python, Java, C++ and wait what? Let's learn how can we help computers understand our human language better (the natural language)
 
@@ -127,7 +137,7 @@ English, Spanish, French, Hindi, Tamil, Russian, Python, Java, C++ and wait what
 | 2             | `YouTube`     | [Natural Language Processing Pipeline](https://www.youtube.com/watch?v=6I-Alfkr5K4) |
 
 
-## Module 7 - Reinforcement Learning
+## Module 9 - Reinforcement Learning
 
 Walk, fall, get up, learn, repeat. Just like how humans learn through experiences on what to do and what not to do, AI is no different! 
 
