@@ -134,8 +134,8 @@ English, Spanish, French, Hindi, Tamil, Russian, Python, Java, C++ and wait what
 | S.No          | Type          | Course Name   |
 | ------------- | ------------- | ------------- |
 | 1             | `Website`     | [How To Get Started with NLP](https://towardsdatascience.com/how-to-get-started-in-nlp-6a62aa4eaeff) |
-| 1             | `⭐Playlist`      | [Tensorflow's NLP Zero to Hero](https://youtube.com/playlist?list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S&si=CTpntcabz40_MDLR)         |
-| 2             | `YouTube`     | [Natural Language Processing Pipeline](https://www.youtube.com/watch?v=6I-Alfkr5K4) |
+| 2             | `⭐Playlist`      | [Tensorflow's NLP Zero to Hero](https://youtube.com/playlist?list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S&si=CTpntcabz40_MDLR)         |
+| 3             | `YouTube`     | [Natural Language Processing Pipeline](https://www.youtube.com/watch?v=6I-Alfkr5K4) |
 
 
 ## Module 9 - Reinforcement Learning
@@ -146,7 +146,7 @@ Walk, fall, get up, learn, repeat. Just like how humans learn through experience
 | ------------- | ------------- | ------------- |
 | 1             | `Playlist`    | [Reinforcement Learning By The Book](https://www.youtube.com/playlist?list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr)         |
 | 2             | `YouTube`     | [RL Basics from Scratch](https://youtu.be/vXtfdGphr3c?si=fnC5onHgc2Kmaeww) |
-|3              | `Website`     | [Reinforcement Learning Tutorial - JavaTPoint](https://www.javatpoint.com/reinforcement-learning) |
+| 3              | `Website`     | [Reinforcement Learning Tutorial - JavaTPoint](https://www.javatpoint.com/reinforcement-learning) |
 
 
 
