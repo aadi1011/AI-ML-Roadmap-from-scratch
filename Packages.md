@@ -9,7 +9,10 @@ This README provides an overview of the most common libraries used in data scien
 4. [Deep Learning Libraries](#deep-learning-libraries)
 5. [Installation Instructions](#installation-instructions)
 
-💡Incase you have installed pip and want to download all packages in one go, run the command at the [Example Installation](#example-installation) section
+💡Incase you have installed pip and want to download all packages in one go without reading much about it, run this command directly onto your terminal:
+```sh
+pip install numpy pandas matplotlib seaborn scipy scikit-learn xgboost lightgbm catboost opencv-python scikit-image pillow tensorflow keras torch torchvision mxnet
+```
 
 ## Data Science Libraries
 
