@@ -168,7 +168,7 @@ Walk, fall, get up, learn, repeat. Just like how humans learn through experience
 * Machine Learning Projects - [GeeksForGeeks](https://www.geeksforgeeks.org/machine-learning-projects/)
 * 15 Python Reinforcement Learning Project Ideas for Beginners - [Project Pro](https://www.projectpro.io/article/reinforcement-learning-projects-ideas-for-beginners-with-code/521)
 
-## Also Visit:
+## Interesting Websites to Visit:
 * [AI Club - SIT Pune](https://www.instagram.com/aiclub.sit/)
 * [AI WareHouse](https://www.youtube.com/@aiwarehouse)
 * [Google Talk to Books](https://books.google.com/talktobooks/)
