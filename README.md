@@ -183,6 +183,10 @@ Walk, fall, get up, learn, repeat. Just like how humans learn through experience
 * [TLDR AI](https://tldr.tech/ai)
 * [The Neuron](https://www.theneurondaily.com/)
 
+### AI Blogs
+* [Google AI Blogs](https://ai.google/discover/blogs/)
+* [Distill Publications](https://distill.pub/)
+* [Machine Learning Mastery](https://machinelearningmastery.com/blog/)
 
 
 
