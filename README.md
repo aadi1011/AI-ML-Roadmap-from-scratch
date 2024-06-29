@@ -153,6 +153,8 @@ Walk, fall, get up, learn, repeat. Just like how humans learn through experience
 
 ## `Bonus` Module - Advanced Learning Pathway Courses
 
+Additional bonus courses and problem solving exercises.
+
 | S.No          | Course Name   |
 | ------------- | ------------- |
 | 1             | [Stanford Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) |
