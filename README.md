@@ -123,7 +123,7 @@ The big buzz word everywhere! Create text, images, audios, videos, and more all 
 | 2             | `Course`      | [Microsoft Responsible Generative AI](https://learn.microsoft.com/en-us/training/modules/responsible-generative-ai/)         |
 | 3             | `⭐YouTube`     | [Generative AI in a Nutshell](https://youtu.be/2IK3DFHRFfw?si=V9I81wsPVAhkuinS) |
 | 4             | `Course`      | [Generative Adversarial Networks (GANs) Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans) |
-
+| 5             | `E-Book`      | [Generative AI and LLMs for Dummies](./resources/Generative-AI-and-LLMs-for-Dummies.pdf) |
 
 
 
@@ -136,6 +136,7 @@ English, Spanish, French, Hindi, Tamil, Russian, Python, Java, C++ and wait what
 | 1             | `Website`     | [How To Get Started with NLP](https://towardsdatascience.com/how-to-get-started-in-nlp-6a62aa4eaeff) |
 | 2             | `⭐Playlist`      | [Tensorflow's NLP Zero to Hero](https://youtube.com/playlist?list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S&si=CTpntcabz40_MDLR)         |
 | 3             | `YouTube`     | [Natural Language Processing Pipeline](https://www.youtube.com/watch?v=6I-Alfkr5K4) |
+
 
 
 ## Module 9 - Reinforcement Learning
