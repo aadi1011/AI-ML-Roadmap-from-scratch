@@ -79,6 +79,7 @@ Time to use that data to train a machine on how to learn them. Machine learning 
 | 3             | `Website`     | [Machine Learning Tutorial - GFG](https://www.geeksforgeeks.org/machine-learning/) | 
 | 4             | `Course`      | [Explore Azure with OpenAI](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/)|
 | _5*_             | `Course`      | [Machine Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction) |
+| 6              | `Course`      | [Machine Learning Engineer Learning Path from Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths/17) 
 
 _*❗ The ML Specialization by Andrew NG is a highly specialized and industry level course by one of the most promient AI scientist - Andrew NG. It is an expert level course and is highly recommened to do one you get a good grasp of the foundational knowledge._
 
@@ -124,6 +125,7 @@ The big buzz word everywhere! Create text, images, audios, videos, and more all 
 | 3             | `⭐YouTube`     | [Generative AI in a Nutshell](https://youtu.be/2IK3DFHRFfw?si=V9I81wsPVAhkuinS) |
 | 4             | `Course`      | [Generative Adversarial Networks (GANs) Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans) |
 | 5             | `E-Book`      | [Generative AI and LLMs for Dummies](./resources/Generative-AI-and-LLMs-for-Dummies.pdf) |
+| 6             | `Course`      | [Generative AI Learning Path by Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths/118)
 
 
 
