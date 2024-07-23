@@ -150,6 +150,7 @@ Walk, fall, get up, learn, repeat. Just like how humans learn through experience
 | 1             | `Playlist`    | [Reinforcement Learning By The Book](https://www.youtube.com/playlist?list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr)         |
 | 2             | `YouTube`     | [RL Basics from Scratch](https://youtu.be/vXtfdGphr3c?si=fnC5onHgc2Kmaeww) |
 | 3              | `Website`     | [Reinforcement Learning Tutorial - JavaTPoint](https://www.javatpoint.com/reinforcement-learning) |
+| 4             | `⭐Website`      | [Deep Reinforcement Learning Course - HuggingFace](https://huggingface.co/learn/deep-rl-course/en/unit0/introduction) |
 
 
 
