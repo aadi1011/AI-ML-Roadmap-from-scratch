@@ -125,8 +125,8 @@ The big buzz word everywhere! Create text, images, audios, videos, and more all 
 | 3             | `⭐YouTube`     | [Generative AI in a Nutshell](https://youtu.be/2IK3DFHRFfw?si=V9I81wsPVAhkuinS) |
 | 4             | `Course`      | [Generative Adversarial Networks (GANs) Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans) |
 | 5             | `E-Book`      | [Generative AI and LLMs for Dummies](./resources/Generative-AI-and-LLMs-for-Dummies.pdf) |
-| 6             | `Course`      | [Generative AI Learning Path by Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths/118)
-
+| 6             | `Course`      | [Generative AI Learning Path by Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths/118) |
+| 7             | `YouTube`     | [Generative AI for Developers](https://www.youtube.com/watch?v=F0GQ0l2NfHA) |
 
 
 ## Module 8 - Natural Language Processing
