@@ -8,7 +8,7 @@
 
 
 
-## Module 0 - Before You Start
+## Module 0 - Before You Start 
 
 Before you begin, it is best to build your foundations and have the set-up ready. This would help you get your system working for Python on a compiler software. 
 Mathematics is a foundation for everything in the world for Artificial Intelligence. Have a core in applied mathematical concepts like linear algebra, matrics and more can help you theoretically understand how machines work.
