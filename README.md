@@ -128,6 +128,12 @@ The big buzz word everywhere! Create text, images, audios, videos, and more all 
 | 6             | `Course`      | [Generative AI Learning Path by Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths/118) |
 | 7             | `YouTube`     | [Generative AI for Developers](https://www.youtube.com/watch?v=F0GQ0l2NfHA) |
 
+### Sub-Module 7A - Retrieval Augmented Generation (RAG)
+Retrieval-augmented generation (RAG) is a natural language processing (NLP) technique that combines the capabilities of traditional information retrieval systems with the strengths of generative large language models (LLMs)
+
+| S.No          | Type          | Course Name   |
+| ------------- | ------------- | ------------- |
+| 1             | `Course`      | [PLACE](PLACE)         |
 
 ## Module 8 - Natural Language Processing
 
