@@ -135,6 +135,7 @@ Retrieval-augmented generation (RAG) is a natural language processing (NLP) tech
 | ------------- | ------------- | ------------- |
 | 1             | `Course`      | [Retrieval Augmented Generation Introduction (RXM403)]([PLACE](https://training.linuxfoundation.org/training/retrieval-augmented-generation-rag-intro-rxm403/))         |
 | 2             | `Project ` | [Guided Project on RAG](https://www.coursera.org/projects/introduction-to-rag) |
+| 3             | `YouTube`   | [RAG Full Course](https://www.youtube.com/watch?v=sVcwVQRHIc8&pp=ygUeUmV0cmlldmFsIGFndW1lbnRlZCBnZW5lcmF0aW9u) |
 
 
 ## Module 8 - Natural Language Processing
