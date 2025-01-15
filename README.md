@@ -8,24 +8,27 @@
 
 ## Contents
 
-- [Module 0 - Before You Start](#module-0---before-you-start)
-- [Module 1 - The Math Behind It All](#module-1---the-math-behind-it-all)
-- [Module 2 - Building Your Foundation](#module-2---building-your-foundation)
-- [Module 3 - Data Science](#module-3---data-science)
-- [Module 4 - Machine Learning](#module-4---machine-learning)
-- [Module 5 - Computer Vision](#module-5---computer-vision)
-- [Module 6 - Deep Learning Neural Network](#module-6---deep-learning-neural-network)
-- [Module 7 - Generative AI](#module-7---generative-ai)
-  - [Sub-Module 7A - Retrieval Augmented Generation (RAG)](#sub-module-7a---retrieval-augmented-generation-rag)
-- [Module 8 - Natural Language Processing](#module-8---natural-language-processing)
-- [Module 9 - Reinforcement Learning](#module-9---reinforcement-learning)
-- [Bonus Module - Advanced Learning Pathway Courses](#bonus-module---advanced-learning-pathway-courses)
+**Learning Pathway Modules**
+- [Module 0](#module-0---before-you-start) - Before You Start
+- [Module 1](#module-1---the-math-behind-it-all) - The Math Behind It All
+- [Module 2](#module-2---building-your-foundation) - Building Your Foundation
+- [Module 3](#module-3---data-science) - Data Science
+- [Module 4](#module-4---machine-learning) - Machine Learning
+- [Module 5](#module-5---computer-vision) - Computer Vision
+- [Module 6](#module-6---deep-learning-neural-network) - Deep Learning Neural Network
+- [Module 7](#module-7---generative-ai) - Generative AI
+  - [Sub-Module 7A](#sub-module-7a---retrieval-augmented-generation-rag) - Retrieval Augmented Generation (RAG)
+- [Module 8](#module-8---natural-language-processing) - Natural Language Processing
+- [Module 9](#module-9---reinforcement-learning) - Reinforcement Learning
+- [Bonus Module](#bonus-module---advanced-learning-pathway-courses) - Advanced Learning Pathway Courses
+
+<br>**Additional Cool Stuff**
 - [PROJECTS!](#projects)
 - [Interesting Websites to Visit](#interesting-websites-to-visit)
 - [AI Newsletters](#ai-newsletters)
 - [AI Blogs](#ai-blogs)
 - [Contribute](#contribute)
-
+<hr>
 
 ## Module 0 - Before You Start 
 
