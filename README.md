@@ -6,7 +6,29 @@
 
 📚 These are a collection of the best free resources from YouTube and online courses, as well as other popular blogs and websites.
 
+## Contents
 
+**Learning Pathway Modules**
+- [Module 0](#module-0---before-you-start) - Before You Start
+- [Module 1](#module-1---the-math-behind-it-all) - The Math Behind It All
+- [Module 2](#module-2---building-your-foundation) - Building Your Foundation
+- [Module 3](#module-3---data-science) - Data Science
+- [Module 4](#module-4---machine-learning) - Machine Learning
+- [Module 5](#module-5---computer-vision) - Computer Vision
+- [Module 6](#module-6---deep-learning-neural-network) - Deep Learning Neural Network
+- [Module 7](#module-7---generative-ai) - Generative AI
+  - [Sub-Module 7A](#sub-module-7a---retrieval-augmented-generation-rag) - Retrieval Augmented Generation (RAG)
+- [Module 8](#module-8---natural-language-processing) - Natural Language Processing
+- [Module 9](#module-9---reinforcement-learning) - Reinforcement Learning
+- [Bonus Module](#bonus-module---advanced-learning-pathway-courses) - Advanced Learning Pathway Courses
+
+<br>**Additional Cool Stuff**
+- [PROJECTS!](#projects)
+- [Interesting Websites to Visit](#interesting-websites-to-visit)
+- [AI Newsletters](#ai-newsletters)
+- [AI Blogs](#ai-blogs)
+- [Contribute](#contribute)
+<hr>
 
 ## Module 0 - Before You Start 
 
