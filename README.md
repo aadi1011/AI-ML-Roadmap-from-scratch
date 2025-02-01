@@ -12,7 +12,7 @@
 
 **Learning Pathway Modules**
 - [Module 0](#module-0---before-you-start) - Before You Start ✅
-- [Module 1](#module-1---the-math-behind-it-all) - The Math Behind It All ✅
+- [Module 1](#module-1---the-math-behind-it-all) - The Math Behind It All 
 - [Module 2](#module-2---building-your-foundation) - Building Your Foundation
 - [Module 3](#module-3---data-science) - Data Science
 - [Module 4](#module-4---machine-learning) - Machine Learning
