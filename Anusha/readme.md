@@ -1,6 +1,6 @@
 # Module 0
 
-This repository contains documentation notebooks for various essential Python libraries used in data science, machine learning, and deep learning.
+This repository contains documentation notebooks for various essential Python libraries used in data science, machine learning, and deep learning focused on practical learning implementation through colab platform.
 
 ## Contents
 
