@@ -132,7 +132,7 @@ Time to harness the power of our human brain to develop something that resembles
 | 2             | `Course`      | [Neural Networks and Deep Learning](https://www.classcentral.com/course/neural-networks-deep-learning-9058)               |
 | 3             | `Course`      | [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)               |
 | 4             | `⭐YouTube`     | [Deep Learning Crash Course for Beginners](https://www.youtube.com/watch?v=VyWAvY2CF9c)    |
-| 5             | `⭐Playlist`     | [Neural Networks: Zero to Hero](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=xfuffzwv3I9MT0Lc)    |
+| 5             | `Playlist`     | [Neural Networks: Zero to Hero](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=xfuffzwv3I9MT0Lc)    |
 
 
 
