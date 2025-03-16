@@ -20,6 +20,7 @@
   - [Sub-Module 7A](#sub-module-7a---retrieval-augmented-generation-rag) - Retrieval Augmented Generation (RAG)
 - [Module 8](#module-8---natural-language-processing) - Natural Language Processing
 - [Module 9](#module-9---reinforcement-learning) - Reinforcement Learning
+- [Module 10](#module-10---agentic-ai) - Agentic AI
 - [Bonus Module](#bonus-module---advanced-learning-pathway-courses) - Advanced Learning Pathway Courses
 
 <br>**Additional Cool Stuff**
@@ -184,6 +185,20 @@ Walk, fall, get up, learn, repeat. Just like how humans learn through experience
 | 3              | `Website`     | [Reinforcement Learning Tutorial - JavaTPoint](https://www.javatpoint.com/reinforcement-learning) |
 | 4             | `⭐Website`      | [Deep Reinforcement Learning Course - HuggingFace](https://huggingface.co/learn/deep-rl-course/en/unit0/introduction) |
 
+
+
+## Module 10 - Agentic AI
+
+Don't just provide the solutions, start acting on it. Agentic AI workflows integrate AI and operations to fuel the next wave automation like never before. 
+
+| S.No          | Type          | Course Name   |
+| ------------- | ------------- | ------------- |
+| 1             | `⭐YouTube`     | [AI Agents Fundamentals in 7 Minutes](https://www.youtube.com/watch?v=dJrgZrPKJfQ)               |
+| 2             | `YouTube`    | [Getting Started with LangFlow](https://www.youtube.com/watch?v=knPg4KdKU6w&pp=ygUOTGVhcm4gbGFuZ2Zsb3c%3D)         |
+| 3             | `YouTube`     | [Building RAG Based LLM App using LangFlow ](https://www.youtube.com/watch?v=rz40ukZ3krQ&pp=ygUOTGVhcm4gbGFuZ2Zsb3c%3D) |
+| 4              | `YouTube`     | [Building a Team of AI Agents in n8n with No Code](https://www.youtube.com/watch?v=9FuNtfsnRNo) |
+| 5             | `Website`      | [n8n Documentation](https://docs.n8n.io/) |
+| 6             | `Website`      | [Generative AI vs Agentic AI - Forbes](https://www.forbes.com/sites/bernardmarr/2025/02/03/generative-ai-vs-agentic-ai-the-key-differences-everyone-needs-to-know/)       |
 
 
 
