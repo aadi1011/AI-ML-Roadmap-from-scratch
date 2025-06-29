@@ -1,0 +1,11 @@
+theme: just-the-docs
+title: AI-ML Roadmap from Scratch
+description: Learn AI and ML from scratch with curated free resources.
+url: "https://aadi1011.github.io"
+baseurl: "/AI-ML-Roadmap-from-scratch"
+
+# Optional logo or favicon
+logo: "/assets/logo.png"
+
+# Enable or disable the search bar
+search_enabled: true
