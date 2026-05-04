@@ -1,3 +1,4 @@
+# Personal Note 😊 : This repo will be used by Anusha0501 for tracking her learning peogress. Hence, Please note that ✅ = Module is completed! (Done) 
 <h1 align=center> Free AI and Machine Learning Roadmap with Resources </h1>
 
 🧠 Become skilled in Artificial Intelligence, Machine Learning, Generative AI, Deep Learning, Data Science, Natural Language Processing, Reinforcement Learning and more with this complete 0 to 100 repository.
@@ -6,11 +7,12 @@
 
 📚 These are a collection of the best free resources from YouTube and online courses, as well as other popular blogs and websites.
 
+
 ## Contents
 
 **Learning Pathway Modules**
-- [Module 0](#module-0---before-you-start) - Before You Start
-- [Module 1](#module-1---the-math-behind-it-all) - The Math Behind It All
+- [Module 0](#module-0---before-you-start) - Before You Start ✅
+- [Module 1](#module-1---the-math-behind-it-all) - The Math Behind It All 
 - [Module 2](#module-2---building-your-foundation) - Building Your Foundation
 - [Module 3](#module-3---data-science) - Data Science
 - [Module 4](#module-4---machine-learning) - Machine Learning
