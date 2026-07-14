@@ -3,11 +3,15 @@
 This README provides an overview of the most common libraries used in data science, machine learning, computer vision, and deep learning, along with instructions on how to install them using `pip`.
 
 ## Table of Contents
-1. [Data Science Libraries](#data-science-libraries)
-2. [Machine Learning Libraries](#machine-learning-libraries)
-3. [Computer Vision Libraries](#computer-vision-libraries)
-4. [Deep Learning Libraries](#deep-learning-libraries)
-5. [Installation Instructions](#installation-instructions)
+- [Commonly Used AI/ML Python Libraries](#commonly-used-aiml-python-libraries)
+  - [Table of Contents](#table-of-contents)
+  - [Data Science Libraries](#data-science-libraries)
+  - [Machine Learning Libraries](#machine-learning-libraries)
+  - [Computer Vision Libraries](#computer-vision-libraries)
+  - [Deep Learning Libraries](#deep-learning-libraries)
+- [Installation Instructions](#installation-instructions)
+    - [Example Installation](#example-installation)
+  - [Additional Resources](#additional-resources)
 
 💡Incase you have installed pip and want to download all packages in one go without reading much about it, run this command directly onto your terminal:
 ```sh
