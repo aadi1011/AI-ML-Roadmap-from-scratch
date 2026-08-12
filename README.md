@@ -6,6 +6,10 @@
 
 📚 These are a collection of the best free resources from YouTube and online courses, as well as other popular blogs and websites.
 
+▶️ If you want to understand more on these concepts and resources in a video format, check out the YouTube video of this particular repository:
+1. [Free AI/ML Resources - Part 1 | Aadith Sukumar](https://www.youtube.com/watch?v=PIL4hVx3ioM)
+2. [Free AI/ML Resources - Part 2 | Aadith Sukumar](https://www.youtube.com/watch?v=TIkfudIVBrE)
+
 ## Contents
 
 **Learning Pathway Modules**
