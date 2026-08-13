@@ -1,0 +1,6 @@
+remote_theme: just-the-docs/just-the-docs
+title: AI-ML Roadmap from Scratch
+description: Learn AI and ML from scratch with curated free resources.
+baseurl: "/AI-ML-Roadmap-from-scratch"
+url: "https://aadi1011.github.io"
+search_enabled: true
