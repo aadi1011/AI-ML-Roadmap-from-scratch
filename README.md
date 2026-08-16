@@ -204,6 +204,7 @@ Don't just provide the solutions, start acting on it. Agentic AI workflows integ
 | 4              | `YouTube`     | [Building a Team of AI Agents in n8n with No Code](https://www.youtube.com/watch?v=9FuNtfsnRNo) |
 | 5             | `Website`      | [n8n Documentation](https://docs.n8n.io/) |
 | 6             | `Website`      | [Generative AI vs Agentic AI - Forbes](https://www.forbes.com/sites/bernardmarr/2025/02/03/generative-ai-vs-agentic-ai-the-key-differences-everyone-needs-to-know/)       |
+| 7             | `GitHub`       | [Agent QA - The self-improving QA agent for software teams](https://github.com/vostride/agent-qa) |
 
 
 
